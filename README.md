@@ -60,7 +60,7 @@ Seleccionamos el reporte backtrack4.xml y nos muestra información de los servic
 
 ![8](img/8.png)
 
-Podemos de igual manera exporta el reporte a un formato pdf, verificar las vulnerabilidades encontradas con el motor de ave de nmap
+Podemos de igual manera exporta el reporte a un formato pdf, verificar las vulnerabilidades encontradas con el motor de cve de nmap
 
 ![9](img/9.png)
 
