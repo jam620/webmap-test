@@ -15,7 +15,7 @@ Compartiendo con unos colegas del grupo **Purple Team UTP** al cual pertenezco, 
 ![](./img/1.png)
 
 ```shell
-nmap -sC -sV -T4 -vvvv -p- chamilo.ambientevirtualuea.org -oX /root/webmap-report/backtrack4.xml
+nmap -sC -sV -T4 -vvvv -p- ip-objetivo -oX /root/webmap-report/backtrack4.xml
 ```
 
 2. Clonamos el repositorio de webmap 
